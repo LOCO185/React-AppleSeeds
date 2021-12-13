@@ -1,0 +1,14 @@
+.MyApp {
+  font-family: sans-serif;
+  text-align: center;
+}
+.green {
+  background: green;
+}
+.red {
+  background: red;
+}
+.black {
+  background: black;
+  color: white;
+}
