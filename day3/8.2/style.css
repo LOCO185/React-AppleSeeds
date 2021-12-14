@@ -1,0 +1,11 @@
+.Box-show {
+  display: block;
+  transform: translateX(-100%);
+  animation: moveRight 2s forwards ease-in;
+}
+
+@keyframes moveRight {
+  to {
+    transform: translateX(0);
+  }
+}
