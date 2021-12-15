@@ -1,8 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Form from "./components/11.3/form";
+// import CheckBoxes from "./components/11.2/CheckBoxes";
+// import ChildToFather from "./components/11.1/ChildToFather";
 // import SlidingBoxes from "./components/8.2/SlidingBoxes";
 // import BoxToCircle from "./components/8.3/BoxToCircle";
-// import SpinnerLoader from "./components/9.1/SpinnerContainer";
+// import SpinnerLoader from "../../day3/9.1/SpinnerContainer";
 // import Quiz from "./components/3.2/3.2";
 // import Ex22 from "./components/2.2/2.2";
 // import Box from "./components/3.1/3.1.JS";
@@ -29,6 +32,9 @@ const App = () => {
       {/* <SpinnerLoader /> */}
       {/* <BoxToCircle /> */}
       {/* <SlidingBoxes /> */}
+      {/* <ChildToFather /> */}
+      {/* <CheckBoxes /> */}
+      <Form />
     </div>
   );
 };
