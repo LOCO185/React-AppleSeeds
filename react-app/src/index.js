@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+// import Main from "../../day5/13.2/Main";
 // import TextArea from "./components/14.2/TextArea";
 // import SearchBar from "./components/14.1/SearchBar";
 // import Jokes from "./components/12.1/Jokes";
@@ -12,6 +13,7 @@ const App = () => {
       {/* <Names /> */}
       {/* <SearchBar /> */}
       {/* <TextArea /> */}
+      {/* <Main /> */}
     </div>
   );
 };
