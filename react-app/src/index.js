@@ -1,5 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+// import Product from "../../day7/16.1/Product";
+// import Stream from "../../Streams/Stream";
 // import Main from "../../day5/13.2/Main";
 // import TextArea from "./components/14.2/TextArea";
 // import SearchBar from "./components/14.1/SearchBar";
@@ -14,6 +16,8 @@ const App = () => {
       {/* <SearchBar /> */}
       {/* <TextArea /> */}
       {/* <Main /> */}
+      {/* <Stream /> */}
+      {/* <Product /> */}
     </div>
   );
 };
