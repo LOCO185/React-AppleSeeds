@@ -1,23 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import Product from "../../day7/16.1/Product";
-// import Stream from "../../Streams/Stream";
-// import Main from "../../day5/13.2/Main";
-// import TextArea from "./components/14.2/TextArea";
-// import SearchBar from "./components/14.1/SearchBar";
-// import Jokes from "./components/12.1/Jokes";
-// import Names from "./components/13.1/Names";
+// import MarkAndDelete from "./components/18.4/CheckBoxes";
+// import WhatsTheTime from "./components/18.3/WhatsTheTime";
+// import SimpleTodo from "./components/18.2/SimpleTodo";
+// import Text from "./components/18.1/Text";
 
 const App = () => {
   return (
     <div>
-      {/* <Jokes /> */}
-      {/* <Names /> */}
-      {/* <SearchBar /> */}
-      {/* <TextArea /> */}
-      {/* <Main /> */}
-      {/* <Stream /> */}
-      {/* <Product /> */}
+      {/* <Text /> */}
+      {/* <SimpleTodo /> */}
+      {/* <WhatsTheTime /> */}
+      {/* <MarkAndDelete /> */}
     </div>
   );
 };
