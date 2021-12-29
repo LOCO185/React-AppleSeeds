@@ -1,16 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import AlogoliaApi from "./components/19.3/AlogicalApi";
-// import CountriesOfTheWorld from "./components/19.2/CountriesOfTheWorld";
-// import SimpleFetch from "./components/19.1/SimpleFetch";
+// import PlayPause from "./components/21.2/PlayPause";
+// import Editing from "./components/21.1/Editing";
+// import CancelRequest from "./components/20.1/CancelRequest";
 
 
 const App = () => {
   return (
     <div>
-      {/* <AlogoliaApi /> */}
-      {/* <SimpleFetch /> */}
-      {/* <CountriesOfTheWorld /> */}
+      {/* <CancelRequest /> */}
+      {/* <Editing /> */}
+      {/* <PlayPause /> */}
     </div>
   );
 };
